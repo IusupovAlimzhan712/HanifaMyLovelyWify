@@ -44,7 +44,7 @@ export default function Page() {
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
           <div className="text-4xl md:text-6xl font-bold my-4">
-            Ok Yayyyyy!!!
+            Спасибо… ты моё счастье 🥹💘
           </div>
         </>
       ) : (
@@ -62,7 +62,7 @@ export default function Page() {
             src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.webp"
           />
           <h1 className="text-4xl md:text-6xl my-4 text-center">
-            Will you be my Valentine?
+            Будешь моей Валентинкой? 💗
           </h1>
           <div className="flex flex-wrap justify-center gap-2 items-center">
             <button
@@ -90,10 +90,10 @@ const Footer = () => {
   return (
     <a
       className="fixed bottom-2 right-2 backdrop-blur-md opacity-80 hover:opacity-95 border p-1 rounded border-rose-300"
-      href="https://github.com/Xeven777/valentine"
+      href="https://github.com/IusupovAlimzhan712/HanifaMyLovelyWify.git"
       target="__blank"
     >
-      Made with{" "}
+      Made with Love For Hanifa{" "}
       <span role="img" aria-label="heart">
         ❤️
       </span>
