@@ -70,7 +70,7 @@ export default function Page() {
               style={{ fontSize: yesButtonSize }}
               onClick={() => setYesPressed(true)}
             >
-              Yes
+              Да!
             </button>
             <button
               onClick={handleNoClick}
